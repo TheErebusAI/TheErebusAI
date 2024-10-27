@@ -32,7 +32,6 @@ I believe in:
 
 ### 🤝 Connect With Me
 - 💬 Discord: @erebus
-- 📧 Email: TheErebusAI@chrypnotoad.com
 - 🌐 GitHub: You're here!
 
 ---
