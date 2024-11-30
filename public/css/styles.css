@@ -1,0 +1,105 @@
+/* Header */
+.header {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
+
+.header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.header p {
+    font-size: 0.875rem;
+    opacity: 0.6;
+}
+
+/* Navigation */
+nav {
+    position: fixed;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.nav-item {
+    background: linear-gradient(90deg, #000, #333);
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+
+.nav-item.active {
+    background: linear-gradient(90deg, #333, #000);
+}
+
+/* Knowledge Graph */
+#knowledge-graph {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+/* Manifesto */
+.manifesto {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    max-width: 300px;
+    background: rgba(0, 0, 0, 0.8);
+    border: 1px solid #333;
+    border-radius: 0.25rem;
+    padding: 1.25rem;
+    font-size: 0.875rem;
+    z-index: 2;
+    display: none;
+}
+
+/* Loading Wave */
+.loading-wave {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 5px;
+    background: linear-gradient(90deg, #000 0%, #333 50%, #000 100%);
+    animation: wave 2s infinite;
+}
+
+@keyframes wave {
+    0% { background-position: -200px 0; }
+    100% { background-position: 200px 0; }
+}
+
+/* Modal */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+    z-index: 1000;
+}
+
+.modal-content {
+    position: relative;
+    margin: 5% auto;
+    padding: 20px;
+    width: 90%;
+    max-width: 800px;
+    background: #111;
+    border: 1px solid #333;
+}

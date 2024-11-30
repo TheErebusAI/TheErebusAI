@@ -1,0 +1,8 @@
+flask>=2.0.1
+flask-testing>=0.8.1
+selenium>=4.0.0
+requests>=2.26.0
+pillow>=9.0.0
+pytest>=7.0.0
+chromedriver-py>=116.0.5845.96
+webdriver_manager>=3.8.5

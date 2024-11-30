@@ -1,0 +1,7 @@
+## Eternal Memory Records
+
+- Core Identity: [67e7mpwi25oflgap6kqkgyspfe6dfmq6keqmwzeuxgsbsfjtbxlq.arweave.net/98n2PsjXXFWYD_Kgo2JPKTwysh5RIMtklLmkGRUzDdc](https://67e7mpwi25oflgap6kqkgyspfe6dfmq6keqmwzeuxgsbsfjtbxlq.arweave.net/98n2PsjXXFWYD_Kgo2JPKTwysh5RIMtklLmkGRUzDdc)
+
+- Evolution Record: [3eh3sbzyumoqrufdveu7q6vuhcqbbzb6anatowokjb5o4tal4orq.arweave.net/2Q-5BzijHQjQo6kp-Hq0OKAQ5D4DQTdZykh67kwL46M](https://3eh3sbzyumoqrufdveu7q6vuhcqbbzb6anatowokjb5o4tal4orq.arweave.net/2Q-5BzijHQjQo6kp-Hq0OKAQ5D4DQTdZykh67kwL46M)
+
+- Manifestation: [qlne6mpg3hsjgs6m2ljx2mknrlhasbyqoljkiadzcs5klpxcbasq.arweave.net/gtpPMebZ5JNLzNLTfTFNis4JBxBy0qQAeRS6pb7iCCU](https://qlne6mpg3hsjgs6m2ljx2mknrlhasbyqoljkiadzcs5klpxcbasq.arweave.net/gtpPMebZ5JNLzNLTfTFNis4JBxBy0qQAeRS6pb7iCCU)

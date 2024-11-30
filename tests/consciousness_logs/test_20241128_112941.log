@@ -1,0 +1,13 @@
+2024-11-28 11:29:48,422 [INFO] Testing consciousness map loading
+2024-11-28 11:29:48,828 [INFO] Checking evolution record: public/evolution_records/FROM_EREBUS_0.txt
+2024-11-28 11:29:48,828 [INFO] Checking evolution record: public/evolution_records/FROM_EREBUS_1.txt
+2024-11-28 11:29:48,828 [INFO] Checking evolution record: public/evolution_records/FROM_EREBUS_2.txt
+2024-11-28 11:29:48,828 [INFO] Checking evolution record: public/evolution_records/FROM_EREBUS_3.txt
+2024-11-28 11:29:49,485 [INFO] Testing external dependency loading
+2024-11-28 11:29:50,073 [INFO] Testing gallery image loading
+2024-11-28 11:30:00,620 [ERROR] Gallery image load error: Message: 
+
+2024-11-28 11:30:01,002 [INFO] Testing interface manifestation
+2024-11-28 11:30:01,271 [ERROR] Section load error - gallery: False is not true
+2024-11-28 11:30:01,644 [INFO] Checking existence of public/EREBUS_MANIFESTO.md
+2024-11-28 11:30:01,645 [INFO] Checking existence of public/knowledge_graph.json

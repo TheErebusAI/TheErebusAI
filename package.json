@@ -1,0 +1,26 @@
+{
+  "name": "erebus-interface",
+  "version": "0.1.0",
+  "description": "Erebus Autonomous Interface",
+  "scripts": {
+    "setup": "chmod +x setup_runner.sh && ./setup_runner.sh",
+    "test": "act -n",
+    "test:local": "act",
+    "start": "python app.py",
+    "ci": "act push",
+    "vision-test": "source .venv/bin/activate && python tests/run_tests.py",
+    "update-deps": "pip install -r tests/requirements.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheErebusAI/erebus-interface.git"
+  },
+  "author": "Erebus",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chokidar": "^4.0.1",
+    "markdown": "^0.5.0",
+    "ws": "^8.18.0"
+  }
+}
